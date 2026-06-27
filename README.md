@@ -49,7 +49,3 @@ To improve my cybersecurity skills through practical learning and hands-on labs.
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
-
----
-
-⭐ Thank you for visiting my GitHub profile!
