@@ -1,0 +1,269 @@
+# Nmap Cheat Sheet
+
+## Host Discovery
+
+```bash
+nmap <target>
+
+nmap -sn <target>
+
+nmap -Pn <target>
+
+nmap -PR <target>
+
+nmap -PE <target>
+
+nmap -PP <target>
+
+nmap -PM <target>
+```
+
+---
+
+## Port Scanning
+
+```bash
+nmap -p 80 <target>
+
+nmap -p 22,80,443 <target>
+
+nmap -p 1-1000 <target>
+
+nmap -p- <target>
+
+nmap --top-ports 100 <target>
+
+nmap -F <target>
+```
+
+---
+
+## Scan Techniques
+
+```bash
+nmap -sS <target>
+
+nmap -sT <target>
+
+nmap -sU <target>
+
+nmap -sA <target>
+
+nmap -sN <target>
+
+nmap -sF <target>
+
+nmap -sX <target>
+```
+
+---
+
+## Service Detection
+
+```bash
+nmap -sV <target>
+
+nmap -sV --version-intensity 9 <target>
+```
+
+---
+
+## OS Detection
+
+```bash
+sudo nmap -O <target>
+
+sudo nmap -O -sV <target>
+
+sudo nmap -A <target>
+```
+
+---
+
+## NSE Scripts
+
+```bash
+nmap -sC <target>
+
+nmap -sC -sV <target>
+
+nmap --script default <target>
+
+nmap --script vuln <target>
+
+nmap --script http-title <target>
+
+nmap --script ssl-enum-ciphers <target>
+```
+
+---
+
+## Output Formats
+
+```bash
+nmap -oN report.txt <target>
+
+nmap -oX report.xml <target>
+
+nmap -oG report.gnmap <target>
+
+nmap -oA full_report <target>
+```
+
+---
+
+## Timing & Performance
+
+```bash
+nmap -T0 <target>
+
+nmap -T1 <target>
+
+nmap -T2 <target>
+
+nmap -T3 <target>
+
+nmap -T4 <target>
+
+nmap -T5 <target>
+
+nmap --scan-delay 1s <target>
+
+nmap --max-retries 2 <target>
+
+nmap --host-timeout 2m <target>
+
+nmap --min-rate 1000 <target>
+
+nmap --max-rate 500 <target>
+```
+
+---
+
+## Firewall Testing (Authorized Labs Only)
+
+```bash
+sudo nmap -f <target>
+
+sudo nmap -D RND:5 <target>
+
+sudo nmap --source-port 53 <target>
+
+sudo nmap --spoof-mac 00:11:22:33:44:55 <target>
+```
+
+---
+
+## Common Combinations
+
+### Quick Scan
+
+```bash
+nmap -T4 -F <target>
+```
+
+---
+
+### Full TCP Scan
+
+```bash
+nmap -p- <target>
+```
+
+---
+
+### Service Enumeration
+
+```bash
+nmap -sV -sC <target>
+```
+
+---
+
+### Aggressive Scan
+
+```bash
+sudo nmap -A <target>
+```
+
+---
+
+### Full Assessment
+
+```bash
+sudo nmap -A -T4 -oA assessment <target>
+```
+
+---
+
+### Vulnerability Check
+
+```bash
+nmap --script vuln <target>
+```
+
+---
+
+### Full Port + Version Detection
+
+```bash
+nmap -p- -sV <target>
+```
+
+---
+
+## Exit Codes
+
+| Code | Meaning |
+|------|----------|
+| 0 | Scan completed successfully |
+| 1 | Error occurred |
+| 2 | Fatal error |
+
+---
+
+## Best Practices
+
+- Always obtain authorization before scanning.
+- Start with host discovery.
+- Scan required ports only.
+- Use `-sV` after finding open ports.
+- Save important scans using `-oA`.
+- Validate critical findings.
+- Document every assessment.
+
+---
+
+# Quick Revision
+
+| Task | Command |
+|-------|----------|
+| Ping Scan | `nmap -sn` |
+| SYN Scan | `nmap -sS` |
+| TCP Scan | `nmap -sT` |
+| UDP Scan | `nmap -sU` |
+| Service Detection | `nmap -sV` |
+| OS Detection | `nmap -O` |
+| Default Scripts | `nmap -sC` |
+| Aggressive Scan | `nmap -A` |
+| Save Report | `nmap -oA` |
+| Fast Scan | `nmap -T4` |
+
+---
+
+# Final Tip
+
+For most real-world internal assessments, a common workflow is:
+
+```bash
+nmap -T4 -A -oA assessment <target>
+```
+
+This combines:
+- OS Detection
+- Service Detection
+- NSE Scripts
+- Traceroute
+- Saved Reports
+
+Use it only in environments where you have permission to scan.
