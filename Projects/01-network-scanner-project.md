@@ -127,3 +127,22 @@ Possible enhancements include:
 ## 13. Conclusion
 
 The Network Scanner Project provided practical experience in Python networking and cybersecurity. It strengthened my understanding of host discovery, socket programming, and basic network reconnaissance techniques while improving my problem-solving skills.
+
+
+---
+
+## 💻 Implementation Details
+
+The Password Security Tool was developed using Python to automate password analysis and secure password generation.
+
+The project uses different validation techniques to evaluate password complexity and generate security recommendations.
+
+---
+
+## 🧩 Code Explanation
+
+### 1. Import Required Libraries
+
+```python
+import random
+import string
