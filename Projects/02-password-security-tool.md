@@ -49,6 +49,17 @@ The tool performs the following steps:
 4. Generates a security score.
 5. Provides feedback for improving password strength.
 
+
+Implementation Details
+↓
+Code Explanation
+↓
+Security Note
+↓
+Future Improvements
+↓
+Project Status
+
 ---
 
 ## 📂 Project Structure
