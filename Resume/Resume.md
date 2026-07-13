@@ -4,7 +4,7 @@ Cybersecurity Enthusiast | Aspiring Security Analyst
 
 📍 India  
 📧 Email: sakshidevda26@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/sakshi-devda-8a8854333  
+🔗 LinkedIn: https://linkedin.com/in/sakshi-devda-8a8854333  
 🔗 GitHub:  https://github.com/sakshi-devda 
 
 ---
