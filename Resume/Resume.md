@@ -1,6 +1,6 @@
 # Sakshi Devda
 
-## Cybersecurity Enthusiast | Aspiring Security Analyst
+Cybersecurity Enthusiast | Aspiring Security Analyst
 
 📍 India  
 📧 Email: sakshidevda26@gmail.com  
@@ -13,7 +13,7 @@
 
 Cybersecurity enthusiast with hands-on experience in Linux, networking, security tools, and vulnerability assessment. Skilled in network reconnaissance, packet analysis, log analysis, and basic security automation using Python and Bash.
 
-Built practical cybersecurity projects and security documentation while developing knowledge of defensive security, SOC operations, and incident analysis.Passionate about continuous learning and aiming to contribute as a Cybersecurity Analyst while improving security skills.
+Built practical cybersecurity projects and security documentation while developing knowledge of defensive security, SOC operations, and incident analysis. Passionate about continuous learning and aiming to contribute as a Cybersecurity Analyst while improving security skills.
 
 ## Technical Skills:
 
@@ -53,6 +53,12 @@ Built practical cybersecurity projects and security documentation while developi
 - Network Reconnaissance
 - Packet Analysis
 - Log Analysis
+- Security Monitoring
+- SIEM Monitoring (Basics)
+- Windows Event Logs (Basics)
+- MITRE ATT&CK Framework (Basics)
+- Incident Response Basics
+- OWASP Top 10
 
 ## Cybersecurity Projects:
 
@@ -117,53 +123,12 @@ Built practical cybersecurity projects and security documentation while developi
 ### TryHackMe
 - Completed Pre-Security Learning Path.
 - Practiced networking, Linux, operating systems, cryptography, and cybersecurity fundamentals.
-- Incident Response Basics
 
 ## Education:
 
 ### Bachelor of Science (B.Sc.) - Biotechnology & Computer Science
-[Royal Institute of Management of Science | Vikram Univaersity]  
+[Royal Institute of Management of Science | Vikram University]  
 Currently Pursuing | 2nd Year Completed
-
-## Tools & Technologies:
-
-### Security Tools:
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit Framework
-- Gobuster
-- Nikto
-- SQLmap
-- Hydra
-- Splunk (Basics)
-- Wazuh (Basics)
-
-### Operating Systems
-- Linux
-- Kali Linux
-- Windows
-
-### Programming & Scripting
-- Python
-- Bash Scripting
-
-### Networking Technologies
-- TCP/IP
-- DNS
-- DHCP
-- HTTP/HTTPS
-- SSH
-- VPN
-
-### Security Concepts
-- Vulnerability Assessment
-- Network Reconnaissance
-- Packet Analysis
-- Log Analysis
-- Security Monitoring
-- Incident Response Basics
-- OWASP Top 10
 
 ## Soft Skills:
 
