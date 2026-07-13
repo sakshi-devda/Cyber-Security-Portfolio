@@ -174,8 +174,3 @@ Currently Pursuing | 2nd Year Completed
 - Team Collaboration
 - Time Management
 - Technical Documentation
-
-
-- OWASP Top 10
-
-- 
