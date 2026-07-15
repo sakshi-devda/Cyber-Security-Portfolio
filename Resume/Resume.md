@@ -142,7 +142,7 @@ Built practical cybersecurity projects and security documentation while developi
 
 Bachelor of Science (B.Sc.)  
 Biotechnology & Computer Science  
-Royal Institute of Management Science, Vikram University  
+Royal Institute of Management And Advanced Studies, Vikram University  
 2nd Year Completed
 
 ## Soft Skills:
