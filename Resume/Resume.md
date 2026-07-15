@@ -4,8 +4,11 @@ Cybersecurity Enthusiast | Aspiring Security Analyst
 
 📍 India  
 📧 Email: sakshidevda26@gmail.com  
+
 🔗 LinkedIn: https://linkedin.com/in/sakshi-devda-8a8854333  
-🔗 GitHub:  https://github.com/sakshi-devda 
+🔗 GitHub: https://github.com/sakshi-devda  
+🔗 https://tryhackme.com/p/sakshidevda013
+ 
 
 ---
 
@@ -62,12 +65,12 @@ Built practical cybersecurity projects and security documentation while developi
 
 ## Cybersecurity Projects:
 
-### Network Scanner Tool
+### Python Network Scanner | Cybersecurity Project
 - Developed a Python-based network scanner to identify active hosts and analyze network information.
 - Implemented networking concepts and Python scripting for security reconnaissance.
 - Documented project workflow, usage, and results.
 
-### Password Security Tool
+### Password Generator & Security Utility | Python
 - Built a Python-based password generator and security utility.
 - Implemented secure password generation using random characters and strength-based practices.
 - Added documentation with execution screenshots and explanations.
@@ -124,11 +127,23 @@ Built practical cybersecurity projects and security documentation while developi
 - Completed Pre-Security Learning Path.
 - Practiced networking, Linux, operating systems, cryptography, and cybersecurity fundamentals.
 
+##**Hands-on Experience:**
+
+- Linux Administration & Command Line Practice  
+- Network Traffic Analysis using Wireshark  
+- Network Reconnaissance and Port Scanning using Nmap  
+- Vulnerability Assessment and Security Testing  
+- Security Documentation and Cybersecurity Research  
+- SOC Fundamentals and SIEM Monitoring Basics  
+- Log Analysis and Incident Response Basics  
+- Basic Security Automation using Python and Bash
+
 ## Education:
 
-### Bachelor of Science (B.Sc.) - Biotechnology & Computer Science
-[Royal Institute of Management of Science | Vikram University]  
-Currently Pursuing | 2nd Year Completed
+### Bachelor of Science (B.Sc.) 
+Biotechnology & Computer Science
+Royal Institute of Management Science, Vikram University
+2nd Year Completed
 
 ## Soft Skills:
 
