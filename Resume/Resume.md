@@ -140,7 +140,7 @@ Built practical cybersecurity projects and security documentation while developi
 
 ## Education:
 
-### Bachelor of Science (B.Sc.) 
+Bachelor of Science (B.Sc.) 
 Biotechnology & Computer Science
 Royal Institute of Management Science, Vikram University
 2nd Year Completed
