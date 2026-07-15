@@ -7,7 +7,7 @@ Cybersecurity Enthusiast | Aspiring Security Analyst
 
 🔗 LinkedIn: https://linkedin.com/in/sakshi-devda-8a8854333  
 🔗 GitHub: https://github.com/sakshi-devda  
-🔗 https://tryhackme.com/p/sakshidevda013
+🔗 TryHackMe: https://tryhackme.com/p/sakshidevda013
  
 
 ---
@@ -127,7 +127,7 @@ Built practical cybersecurity projects and security documentation while developi
 - Completed Pre-Security Learning Path.
 - Practiced networking, Linux, operating systems, cryptography, and cybersecurity fundamentals.
 
-##**Hands-on Experience:**
+## **Hands-on Experience:**
 
 - Linux Administration & Command Line Practice  
 - Network Traffic Analysis using Wireshark  
