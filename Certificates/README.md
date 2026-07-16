@@ -28,7 +28,7 @@ Completed Deloitte's cybersecurity virtual job simulation based on real-world se
 - Problem-solving approach
 - Cybersecurity consulting workflow
 
-[View Certificate](../../../Downloads/Deloitte_Certificate.pdf)
+[View Certificate](Deloitte_Certificate.pdf)
 
 ---
 
@@ -43,7 +43,7 @@ Completed Mastercard's cybersecurity job simulation focused on practical securit
 - Data security awareness
 - Cybersecurity problem-solving
 
-[View Certificate](../../../Downloads/Mastercard_Certificate.pdf)
+[View Certificate](Mastercard_Certificate.pdf)
 
 ---
 
@@ -69,7 +69,7 @@ Completed cybersecurity-focused assessment covering essential security concepts.
 - Risk awareness
 - Defensive security fundamental
 
-[View Certificate](../../../Downloads/Expert_Quize_Completion_Certificate.pdf)
+[View Certificate](Expert_Quize_Completion_Certificate.pdf)
 
 ---
 
