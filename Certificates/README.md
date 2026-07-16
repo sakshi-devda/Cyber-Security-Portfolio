@@ -16,6 +16,7 @@ Completed a cybersecurity internship program focused on practical security learn
 - Practical security workflows
 
 [View Certificate](Cybersecurity_internship_Completion.certificate.pdf)
+
 ---
 
 ## 🛡️ Deloitte Cybersecurity Job Simulation
