@@ -15,6 +15,7 @@ Completed a cybersecurity internship program focused on practical security learn
 - Network security basics
 - Practical security workflows
 
+[View Certificate](Cybersecurity_internship_Completion.certificate.pdf)
 ---
 
 ## 🛡️ Deloitte Cybersecurity Job Simulation
@@ -56,6 +57,8 @@ Completed cybersecurity assessment and demonstrated understanding of technical s
 - Security awareness
 - Basic security practices
 - Technical concepts
+
+[View Certificate](Downloads/ICAT_Certificate.pdf)
 
 ---
 
