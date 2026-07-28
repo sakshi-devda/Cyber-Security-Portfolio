@@ -114,8 +114,6 @@ In this room, I explored the major hardware components of a computer system and 
 
 ## 8. Screenshots
 
-> Screenshots will be added later.
-
 Suggested screenshots:
 
 ### Room Overview
