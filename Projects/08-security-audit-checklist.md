@@ -166,21 +166,13 @@ Documented:
 
 ## Audit Checklist
 
-(Add screenshot here)
-
-```markdown
-![Audit Checklist](./screenshots/system-check.png)
-```
+>![Audit Checklist](./screenshots/system-check.png)
 
 ---
 
 ## Audit Report
 
-(Add screenshot here)
-
-```markdown
-![Audit Report](./screenshots/audit-report.png)
-```
+>![Audit Report](./screenshots/audit-report.png)
 
 ---
 
