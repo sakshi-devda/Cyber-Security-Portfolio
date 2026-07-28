@@ -91,13 +91,17 @@ python 07-network-scanner.py
 
 ## 9. Output
 
-> Output screenshots will be added later.
+### Program execution
 
-Suggested screenshots:
+>![Execution](screenshots/network-scanner-run.png)
 
-- Program execution
-- Network scanning process
-- Active hosts displayed
+### Network scanning process
+
+>![Scanning](screenshots/network-scanning-process.png)
+
+### Active hosts displayed
+
+>![Result](screenshots/active-hosts.png)
 
 ---
 

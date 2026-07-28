@@ -109,13 +109,17 @@ python 05-file-organizer.py
 
 ## 9. Output
 
-> Output screenshots will be added later.
+### Folder before organizing
 
-Suggested screenshots:
+>![Before](screenshots/before-organizing.png)
 
-- Folder before organizing
-- Program execution
-- Folder after organizing
+### Program execution
+
+>![Running](screenshots/file-organizer-run.png)
+
+### Folder after organizing
+
+>![After](screenshots/after-organizing.png)
 
 ---
 

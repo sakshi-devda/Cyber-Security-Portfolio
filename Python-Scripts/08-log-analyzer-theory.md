@@ -90,13 +90,17 @@ python 08-log-analyzer.py
 
 ## 9. Output
 
-> Output screenshots will be added later.
+### Running the program
 
-Suggested screenshots:
+>![Running](screenshots/log-analyzer-run.png)
 
-- Running the program
-- Reading the log file
-- Analysis summary displayed
+### Reading the log file
+
+>![Scanning](screenshots/log-file-reading.png)
+
+### Analysis summary displayed
+
+>![Result](screenshots/log-analysis-summary.png)
 
 ---
 

@@ -97,13 +97,17 @@ python 06-password-strength-checker.py
 
 ## 9. Output
 
-> Output screenshots will be added later.
+### Running the program
 
-Suggested screenshots:
+>![Running](screenshots/password-strength-run.png)
 
-- Running the program
-- Password entered
-- Password strength displayed
+### Password entered
+
+>![Entered](screenshots/password-entered.png)
+
+### Password strength displayed
+
+>![Result](screenshots/password-strength-result.png)
 
 ---
 
