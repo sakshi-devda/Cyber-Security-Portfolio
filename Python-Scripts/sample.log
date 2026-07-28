@@ -1,6 +1,0 @@
-INFO User login successful
-INFO System started
-FAILED Login attempt for user admin
-WARNING Multiple failed login attempts detected
-ERROR Unauthorized access detected
-INFO User logout successful
