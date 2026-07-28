@@ -138,31 +138,19 @@ Purpose:
 
 ### WHOIS Information
 
-(Add screenshot here)
-
-```markdown
-![WHOIS Result](./screenshots/whois-result.png)
-```
+>![WHOIS Result](screenshots/whois-result.png)
 
 ---
 
 ### DNS Analysis
 
-(Add screenshot here)
-
-```markdown
-![DNS Analysis](./screenshots/dns-analysis.png)
-```
+>![DNS Analysis](screenshots/dns--analysis.png)
 
 ---
 
 ### Nmap Scan Result
 
-(Add screenshot here)
-
-```markdown
-![Nmap Result](./screenshots/nmap-result.png)
-```
+>![Nmap Result](screenshots/nmap-result.png)
 
 ---
 
