@@ -105,7 +105,7 @@ python3 log_analyzer.py
 
 ```markdown
 
->![Log Analysis Output](./screenshots/log-output.png)
+>![Log Analysis Output](screenshots/log-output.png)
 ```
 
 ---
