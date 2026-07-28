@@ -80,13 +80,9 @@ The activity demonstrated how offensive security professionals think like attack
 
 >![Overview](screenshots/room-overview.png)
 
----
-
 ### Practical Task
 
 >![Task](screenshots/practical-task.png)
-
----
 
 ### Room Completion
 
