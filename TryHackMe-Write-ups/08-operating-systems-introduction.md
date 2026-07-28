@@ -144,13 +144,17 @@ In this room, I explored the basic functions of an operating system and learned 
 
 ## 9. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/os-room-overview.png)
 
-- Room Overview
-- Operating System Diagram
-- Room Completion
+### Operating System Diagram
+
+>![Diagram](screenshots/os-room-diagram.png)
+
+### Room Completion
+
+>![Completion](screenshots/os-room-completed.png)
 
 ---
 

@@ -118,9 +118,17 @@ In this room, I explored the major hardware components of a computer system and 
 
 Suggested screenshots:
 
-- Room Overview
-- Computer Components Diagram
-- Room Completion
+### Room Overview
+
+>![Overview](screenshots/cc-room-overview.png)
+
+### Computer Components Diagram
+
+>![Components](screenshots/cc-room-components.png)
+
+### Room Completion
+
+>![Completion](screenshots/cc-room-completed.png)
 
 ---
 

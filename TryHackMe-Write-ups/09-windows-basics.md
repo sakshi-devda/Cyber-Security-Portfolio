@@ -139,15 +139,25 @@ In this room, I explored the Windows interface, learned how to navigate the oper
 
 ## 8. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/wb-room-overview.png)
 
-- Room Overview
-- Windows Desktop Interface
-- File Explorer
-- Task Manager
-- Room Completion
+### Windows Desktop Interface
+
+>![Overview](screenshots/wb-room-overview.png)
+
+### File Explorer
+
+>![Explorer](screenshots/wb-room-file.png)
+
+### Task Manager
+
+>![Task](screenshots/wb-room-taskmanager.png)
+
+### Room Completion
+
+>![Completion](screenshots/wb-room-completed.png)
 
 ---
 

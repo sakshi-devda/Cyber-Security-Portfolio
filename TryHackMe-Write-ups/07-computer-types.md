@@ -149,14 +149,17 @@ In this room, I explored different computer types and learned where each system 
 
 ## 8. Screenshots
 
-> Screenshots will be added later.
+## Room Overview
 
-Suggested screenshots:
+> **Note:** This room was previously available to free users. At the time of updating this portfolio, it requires a TryHackMe Premium subscription, so I was unable to capture new screenshots.
 
-- Room Overview
-- Computer Types Diagram
-- Virtual Machine Example
-- Room Completion
+## Practical Task
+
+> Screenshots are unavailable because the room is currently restricted to Premium users.
+
+## Room Completion
+
+> Completion screenshots are not included because the room is no longer accessible on the free plan.
 
 ---
 

@@ -134,14 +134,21 @@ In this room, I explored different number systems, learned how computers represe
 
 ## 8. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/dr-room-overview.png)
 
-- Room Overview
-- Binary Conversion Example
-- Data Representation Diagram
-- Room Completion
+### Binary Conversion Example
+
+>![Example](screenshots/dr-room-example.png)
+
+### Data Representation Diagram
+
+>![Diagram](screenshots/dr-room-diagram.png)
+
+### Room Completion
+
+>![Completion](screenshots/dr-room-completed.png)
 
 ---
 

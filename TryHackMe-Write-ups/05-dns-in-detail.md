@@ -170,14 +170,21 @@ In this room, I explored how DNS works, learned the purpose of different DNS ser
 
 ## 10. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/dns-room-overview.png)
 
-- Room Overview
-- DNS Lookup Diagram
-- DNS Record Types
-- Room Completion
+### DNS Lookup Diagram
+
+>![Diagram](screenshots/dns-room-diagram.png)
+
+### DNS Record Types
+
+>![Records](screenshots/dns-room-records.png)
+
+### Room Completion
+
+>![Completion](screenshots/dns-room-completed.png)
 
 ---
 
