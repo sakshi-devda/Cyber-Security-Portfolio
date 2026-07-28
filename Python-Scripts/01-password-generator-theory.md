@@ -98,7 +98,7 @@ python 01-password-generator.py
 
 ### Running the program
 
->![Running](screenshots/password-generator.png)
+>![password generator](screenshots/password-generator-run.png)
 
 ### Generated password in the terminal
 

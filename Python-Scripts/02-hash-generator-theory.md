@@ -95,7 +95,7 @@ python 02-hash-generator.py
 
 ### Running the program
 
->![Running](screenshots/hash-generator.png)
+>![Running](screenshots/hash-generator-run.png)
 
 ### Generated SHA-256 hash
 

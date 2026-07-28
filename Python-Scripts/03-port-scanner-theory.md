@@ -96,7 +96,7 @@ python 03-port-scanner.py
 
 ### Open ports displayed in the terminal
 
->![Display Port](screenshots/open-port.png)
+>![Display Port](screenshots/open-ports.png)
 
 ---
 
