@@ -157,15 +157,15 @@ Password-Security-Tool/
 
 ### Password entered
 
->![Entered](screenshots/password.input.png)
+>![Entered](screenshots/password-input.png)
 
 ### Password strength analysis
 
->![Strength](screenshots/strength.analysis.png)
+>![Strength](screenshots/strength-analysis.png)
 
 ### Strong password generated
 
->![Completed](screenshots/generated.password.png)
+>![Completed](screenshots/generated-password.png)
 
 ---
 
