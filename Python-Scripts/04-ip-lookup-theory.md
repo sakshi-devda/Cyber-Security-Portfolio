@@ -92,15 +92,15 @@ python 04-ip-lookup.py
 
 ### Running the program
 
-#>![Running](screenshots/ip-lookup-run.png)
+>![Running](screenshots/ip-lookup-run.png)
 
 ### Entering the hostname
 
-#>![Enter Hostname](screenshots/hostname-input.png)
+>![Enter Hostname](screenshots/hostname-input.png)
 
 ### Displaying the resolved IP address
 
-#>![Display ip](screenshots/resolved-ip.png)
+>![Display ip](screenshots/resolved-ip-address.png)
 
 ---
 
