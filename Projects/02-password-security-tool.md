@@ -151,15 +151,21 @@ Password-Security-Tool/
 
 ## 📸 Screenshots
 
-Screenshots will be added after project execution.
+### Running the project
 
-Suggested screenshots:
+>![Run](screenshots/password.run.png)
 
-- Running the project
-- Password entered
-- Password strength analysis
-- Strong password generated
-- Security recommendations
+### Password entered
+
+>![Entered](screenshots/password.input.png)
+
+### Password strength analysis
+
+>![Strength](screenshots/strength.analysis.png)
+
+### Strong password generated
+
+>![Completed](screenshots/generated.password.png)
 
 ---
 
