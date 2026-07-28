@@ -145,31 +145,19 @@ metasploit-framework
 
 ### Virtual Machine Setup
 
-(Add screenshot here)
-
-```markdown
-![VM Setup](./screenshots/virtual-machine-setup.png)
-```
+>![VM Setup](screenshots/virtual-machine-setup.png)
 
 ---
 
 ### Kali Linux Environment
 
-(Add screenshot here)
-
-```markdown
-![Kali Linux](./screenshots/kali-linux.png)
-```
+>![Kali Linux](screenshots/kali-linux.png)
 
 ---
 
 ### Network Configuration
 
-(Add screenshot here)
-
-```markdown
-![Network Configuration](./screenshots/network-config.png)
-```
+>![Network Configuration](screenshots/network-config.png)
 
 ---
 
