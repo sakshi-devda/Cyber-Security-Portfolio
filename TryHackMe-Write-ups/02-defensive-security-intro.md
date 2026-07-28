@@ -84,13 +84,17 @@ In this room, I explored the role of Defensive Security and learned how Blue Tea
 
 ## 8. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/def-room-overview.png)
 
-- Room Overview
-- Task Completion
-- Room Completion
+### Task Completion
+
+>![Task](screenshots/def-practical-task.png)
+
+### Room Completion
+
+>![Completion](screenshots/def-room-completed.png)
 
 ---
 

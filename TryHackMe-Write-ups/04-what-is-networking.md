@@ -128,13 +128,17 @@ In this room, I explored the basic concepts of networking and learned how device
 
 ## 8. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/net-room-overview.png)
 
-- Room Overview
-- Networking Diagram
-- Room Completion
+### Networking Diagram
+
+>![Diagram](screenshots/net-room-diagram.png)
+
+### Room Completion
+
+>![Completion](screenshots/net-room-completed.png)
 
 ---
 

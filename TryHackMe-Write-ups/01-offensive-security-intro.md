@@ -78,25 +78,19 @@ The activity demonstrated how offensive security professionals think like attack
 
 ### Room Overview
 
-Add Screenshot:
-
-screenshots/offensive-security-intro/01-room-overview.png
+>![Overview](screenshots/room-overview.png)
 
 ---
 
 ### Practical Task
 
-Add Screenshot:
-
-screenshots/offensive-security-intro/02-practical-task.png
+>![Task](screenshots/practical-task.png)
 
 ---
 
 ### Room Completion
 
-Add Screenshot:
-
-screenshots/offensive-security-intro/03-room-completed.png
+>![Completion](screenshots/room-completed.png)
 
 ---
 

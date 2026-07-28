@@ -92,13 +92,13 @@ In this room, I explored various cybersecurity career paths and learned the resp
 
 ## 8. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/careers-room-overview.png)
 
-- Room Overview
-- Career Roles Section
-- Room Completion
+### Room Completion
+
+>![Completion](screenshots/career-room-completed.png)
 
 ---
 
