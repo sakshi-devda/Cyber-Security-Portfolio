@@ -86,13 +86,17 @@ python 03-port-scanner.py
 
 ## 9. Output
 
-> Output screenshots will be added later.
+### Running the program
 
-Suggested screenshots:
+>![Running](screenshots/port-scanner-run.png)
 
-- Running the program
-- Port scanning process
-- Open ports displayed in the terminal
+### Port scanning process
+
+>![Scan](screenshots/port-scanning-process.png)
+
+### Open ports displayed in the terminal
+
+>![Display Port](screenshots/open-port.png)
 
 ---
 

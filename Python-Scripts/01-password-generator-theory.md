@@ -96,12 +96,13 @@ python 01-password-generator.py
 
 ## 9. Output
 
-> Output screenshots will be added later.
+### Running the program
 
-Suggested screenshots:
+>![Running](screenshots/password-generator.png)
 
-- Running the program
-- Generated password in the terminal
+### Generated password in the terminal
+
+>![Generate](screenshots/generated-password.png)
 
 ---
 

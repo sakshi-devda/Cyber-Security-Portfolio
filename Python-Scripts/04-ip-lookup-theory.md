@@ -90,13 +90,17 @@ python 04-ip-lookup.py
 
 ## 9. Output
 
-> Output screenshots will be added later.
+### Running the program
 
-Suggested screenshots:
+#>![Running](screenshots/ip-lookup-run.png)
 
-- Running the program
-- Entering the hostname
-- Displaying the resolved IP address
+### Entering the hostname
+
+#>![Enter Hostname](screenshots/hostname-input.png)
+
+### Displaying the resolved IP address
+
+#>![Display ip](screenshots/resolved-ip.png)
 
 ---
 

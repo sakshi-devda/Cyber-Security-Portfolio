@@ -93,12 +93,13 @@ python 02-hash-generator.py
 
 ## 9. Output
 
-> Output screenshots will be added later.
+### Running the program
 
-Suggested screenshots:
+>![Running](screenshots/hash-generator.png)
 
-- Running the program
-- Generated SHA-256 hash
+### Generated SHA-256 hash
+
+>![Generate](screenshots/generated-sha256-hash.png)
 
 ---
 
