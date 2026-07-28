@@ -73,14 +73,21 @@ Manually checking each device is inefficient, so an automated network scanner he
 
 ## 8. Screenshots
 
-> Screenshots will be added after project execution.
+### Running the project
 
-Suggested Screenshots:
+>![Running the project ](screenshots/run.png)
 
-- Running the project
-- Network prefix entered
-- Active hosts detected
-- Scan completed successfully
+### Network Prefix entered
+
+>![Network Scan Output](screenshots/input.png)
+
+### Active hosts detected
+
+>![Active hosts ](screenshots/hosts.png)
+
+### Scan completed successfully
+
+>![Completed](screenshots/completed.png)
 
 ---
 
