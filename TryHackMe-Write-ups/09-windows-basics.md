@@ -145,7 +145,7 @@ In this room, I explored the Windows interface, learned how to navigate the oper
 
 ### Windows Desktop Interface
 
->![Overview](screenshots/wb-room-overview.png)
+>![Interface](screenshots/wb-room-interface.png)
 
 ### File Explorer
 
