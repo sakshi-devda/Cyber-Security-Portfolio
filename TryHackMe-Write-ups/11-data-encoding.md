@@ -130,14 +130,17 @@ In this room, I explored different encoding standards and learned how computers 
 
 ## 8. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/de-room-overview.png)
 
-- Room Overview
-- ASCII Example
-- Base64 Example
-- Room Completion
+### ASCII Example
+
+>![Example](screenshots/de-room-ASCII-example.png)
+
+### Room Completion
+
+>![Completion](screenshots/de-room-completed.png)
 
 ---
 

@@ -126,13 +126,17 @@ In this room, I explored real-world examples of Confidentiality, Integrity, and 
 
 ## 9. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/cia-room-overview.png)
 
-- Room Overview
-- CIA Triad Diagram
-- Room Completion
+### CIA Triad Diagram
+
+>![Diagram](screenshots/cia-room-diagram.png)
+
+### Room Completion
+
+>![Completion](screenshots/cia-room-completed.png)
 
 ---
 
