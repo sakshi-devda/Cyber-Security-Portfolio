@@ -188,14 +188,17 @@ In this room, I explored the fundamental concepts of cryptography and learned ho
 
 ## 8. Screenshots
 
-> Screenshots will be added later.
+### Room Overview
 
-Suggested screenshots:
+>![Overview](screenshots/crypt-room-overview.png)
 
-- Room Overview
-- Encryption Process Diagram
-- Hashing Example
-- Room Completion
+### Encryption Process Diagram
+
+>![Diagram](screenshots/crypt-room-diagram.png)
+
+### Room Completion
+
+>![Completion](screenshots/crypt-room-completed.png)
 
 ---
 
